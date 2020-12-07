@@ -1,0 +1,26 @@
+$background-colour: #393939;
+
+body{
+    background-color: $background-colour;
+}
+.container{
+    width: 1560px;
+    background-color: $background-colour;
+}
+.card-text{
+    font-size: 15px;
+    padding: 10px;
+}
+#imagetab{
+    width: 100%;
+    max-width: 300px;
+}
+.item, img{
+    height: 100%;
+}
+
+@media (min-width: 768px){
+   .container{
+    width: 1560px;
+   }
+}

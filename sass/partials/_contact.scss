@@ -1,0 +1,19 @@
+
+.form-control{
+    padding: 10px;
+}
+.btn-outline-dark{
+    margin-left: -10px;
+}
+.navbar-dark-color{
+    color: blue;
+}
+
+@media (max-width: 480px){
+    .form-control{
+        display: none;
+    }
+    .btn-outline-dark{
+        display: none;
+    }
+}

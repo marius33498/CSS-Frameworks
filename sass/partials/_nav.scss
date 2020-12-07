@@ -1,0 +1,19 @@
+nav{
+    background-color: #EFEFEF;
+}
+nav a{
+    color:  #0A0A0A;
+    font-size: 1em;
+    padding-left: 15px;
+}
+nav:active{
+    background-color: white;
+}
+
+.navbar-brand{
+    margin-left: 40px;
+    color: #E92569;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    font-size: 20px;
+}
